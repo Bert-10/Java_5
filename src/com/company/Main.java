@@ -7,6 +7,6 @@ public class Main {
         Menu.outMenu();
         //hgfhgfhfg
         //fghfghfg
-
+//drunk swimmer
     }
 }
